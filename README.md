@@ -1,3 +1,3 @@
 # discordtuto2
 
-follow my github :)
+args tuto
